@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gold
+  - Obstacle
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer_1
+    uniqueID: 3351653729
+    locked: 0
+  - name: Layer_2
+    uniqueID: 1040966769
+    locked: 0
+  - name: Layer_3
+    uniqueID: 4079517093
+    locked: 0
+  - name: Layer_4
+    uniqueID: 621787317
+    locked: 0
+  - name: Canvas
+    uniqueID: 1812351673
+    locked: 0
+  - name: New Layer 6
+    uniqueID: 4045995725
+    locked: 0
+  - name: New Layer 7
+    uniqueID: 2572104241
+    locked: 0
